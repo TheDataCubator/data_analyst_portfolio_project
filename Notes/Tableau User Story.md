@@ -24,3 +24,21 @@ Display a summary of total sales, profits and quantity for the current year and 
 -Display the average weekly values.
 -Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
+Customer Distribution by Number of Orders
+Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior and engagement.
+
+Top 10 Customer by Profit
+-Present the top 10 customers who have generated the highest profits for the company.
+-Show additional information like rank, number of orders, current sales, current profit and the last order date.
+
+---
+
+### Design & Interactivity Requirements
+
+#### Dashboard Dynamic
+-The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
+-Provide users with the ability to navigate between the dashboards easily.
+-Make the charts and graphs interactive, enabling users to filter data using the charts.
+
+#### Data Filters
+Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
