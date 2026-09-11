@@ -25,6 +25,16 @@ Display a summary of total sales, profits and quantity for the current year and 
 -Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
 ---
+### Customer Dashboard | Requirements
+
+#### Dashboard Purpose
+The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
+
+#### Key Requirements
+
+
+
+---
 
 ### Design & Interactivity Requirements
 
