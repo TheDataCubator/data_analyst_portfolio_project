@@ -6,6 +6,7 @@ This project demonstrates comprehensive data analysis and data visualization usi
 ---
 ## ⚙️Data Architecture
 The data architecture for this project follows these steps:
+
 ![Tableau Project Workflow](docs/diagrams/tableau_project_workflow.png)
 
 ---
