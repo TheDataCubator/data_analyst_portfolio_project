@@ -5,7 +5,7 @@ This project walks through the complete process of data analysis and visualizati
 
 ---
 ## ⚙️Data Architecture
-The data architecture for this project follows these steps:
+The data architecture for the Tableau Complete Project follows these steps:
 
 ![Tableau Project Workflow](docs/diagrams/tableau_project_workflow.png)
 
