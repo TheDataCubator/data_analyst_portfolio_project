@@ -27,7 +27,7 @@ The data architecture for this project follows these steps:
 
 ### Analyze Requirements
 ### Draw Mockup
-Refer to pages 6- 8 [Mockup Diagram](datasets/sales-dashboard-project/project_phases.pdf)
+Refer to pages 6- 8 on [Mockup Diagram](datasets/sales-dashboard-project/project_phases.pdf)
 
 ---
 ### Repository Structure
