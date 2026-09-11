@@ -20,7 +20,7 @@ To create the previous year dimension
 ```
 After that, change Previous Year to a dimension
 
-#CY Sales
+# CY Sales
 
 ## Formula
 ```tableau
