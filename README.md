@@ -4,8 +4,8 @@ Welcome to the **Tableau Complete Project End-to-End** repository!<br>
 This project walks through the complete process of data analysis and visualization in Tableau, starting with requirements analysis and ending with fully built dashboards that answer real business questions. It introduces core Tableau functions and tools through the process of building charts and dashboards.
 
 ---
-## ⚙️Data Architecture
-The data architecture for the Tableau Complete Project follows these steps:
+## ⚙️Project Workflow
+The project workflow for the Tableau Complete Project follows these steps:
 
 ![Tableau Project Workflow](docs/diagrams/tableau_project_workflow.png)
 
