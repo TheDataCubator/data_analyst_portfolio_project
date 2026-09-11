@@ -1,7 +1,7 @@
 # Tableau Complete Project End-to-End(Tutorial Project)
 
 Welcome to the **Tableau Complete Project End-to-End** repository!<br>
-This project demonstrates comprehensive data analysis and data visualization using Tableau, from analysing requirements until building dashboards.
+This project demonstrates comprehensive guidelines on performing data analysis and data visualization using Tableau, starting from analysing requirements until building dashboards to answer  business requirements. In this project, you will be introduced to Tableau functions and tools while building charts and dashboards. 
 
 ---
 ## ⚙️Data Architecture
