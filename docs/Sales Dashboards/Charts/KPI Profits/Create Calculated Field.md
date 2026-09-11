@@ -9,7 +9,7 @@ IF YEAR([Order Date])=[Select Year] THEN [Profit]
 END
 ```
 
-# PY Sales
+# PY Profits
 
 ## Purpose
 Calculates total profits for the previous year only, filtering out all other years. Used as the comparison baseline in year-over-year comparison calculations.
