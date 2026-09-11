@@ -13,11 +13,11 @@ The project workflow for the Tableau Complete Project follows these steps:
 ## 🗠Dashboard Preview
 ![Sales Dashboard](docs/diagrams/Sales Dashboard.png)
 
-🔗 [View the interactive version on Tableau Public]([https://public.tableau.com/app/profile/yourname/viz/...](https://public.tableau.com/views/TableauCompleteProjectE2E-SalesDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [View the interactive version on Tableau Public]([https://public.tableau.com/app/profile/yourname/viz/...](https://public.tableau.com/views/TableauCompleteProjectE2E-SalesDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Customer Dashboard](docs/diagrams/Customer Dashboard.png)
 
-🔗 [View the interactive version on Tableau Public]([https://public.tableau.com/app/profile/yourname/viz/...](https://public.tableau.com/views/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+🔗 [View the interactive version on Tableau Public]([https://public.tableau.com/app/profile/yourname/viz/...](https://public.tableau.com/views/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 ## 🔗Important Links & Tools:
