@@ -18,7 +18,7 @@ The data architecture for this project follows these steps:
 - **[DrawIO](https://www.drawio.com/)**: Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/templates/sql-data-warehouse-project)**: Get the Project Tempalte from Notion
 - **[Emojipedia](https://emojipedia.org/en)**: emoji and icon collections
-- **[Tableau Public(https://www.tableau.com/access/download/public)]**: Tableau is a visual analytics platform transforming the way we use data to solve problems - empowering people and organizations to make the most of their data.
+- **[Tableau Public](https://www.tableau.com/access/download/public)**: Tableau is a visual analytics platform transforming the way we use data to solve problems - empowering people and organizations to make the most of their data.
 
 ---
 
