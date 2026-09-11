@@ -25,7 +25,7 @@ The data architecture for this project follows these steps:
 
 ## Project Requirements
 
-### Analyze Requirements
+### 🔭Analyze Requirements
 
 #### Choose the right charts<br>
 For this project, the charts mostly used were 📈line charts and 📊bar charts.
