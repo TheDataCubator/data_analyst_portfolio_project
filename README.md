@@ -9,16 +9,6 @@ The data architecture for this project follows these steps:
 ![Tableau Project Workflow](docs/diagrams/tableau_project_workflow.png)
 
 ---
-## Project Overview
-
-This project involves:
-
-1. **Data Architecture**: Designing a Modern Data Warehouse using Medallion Architecture **Bronze**,**Silver**, and **Gold** layers.
-2. **ETL Pipelines**: Extracting, transforming and loading data from source systems into the warehouse.
-3. **Data Modelling**: Developing fact and dimension tables optimized for analytical queries.
-4. **Analytics and Reporting**: Creating SQL-based reports and dashboards for actionable insights.
-
----
 ## 🔗Important Links & Tools:
 
 - **[Datasets](https://github.com/TheDataCubator/sql_data_warehouse_project/tree/bd1e64fad09770549473975ed3b65216eb504c80/datasets)**: Access to the project dataset(csv files).
