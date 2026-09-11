@@ -66,13 +66,6 @@ Below are the colors used in the Customers Dashboard:
 | Lowest value, below average value | ![#ff9da7](https://img.shields.io/badge/-ff9da7-ff9da7) | `#ff9da7` |
 ---
 
-### Repository Structure
-```
-
-
-```
-
----
 
 ## License
 
