@@ -41,7 +41,7 @@ The project workflow for the Tableau Complete Project follows these steps:
 For this project, the types of charts mostly used were 📈line charts and 📊bar charts.
 
 #### Draw Mockup
-Refer to pages 6 - 8 in [Dashboard Mockup Diagram](datasets/sales-dashboard-project/project_phases.pdf)
+Refer to [Dashboard Mockup Diagram](datasets/sales-dashboard-project/project_phases.pdf) on dashboard mockup drawing before building the real dashboard.
 
 #### Dashboard Color Scheme
 
