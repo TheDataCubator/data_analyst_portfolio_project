@@ -1,4 +1,4 @@
-# [Current Year]
+# Current Year
 
 ## Purpose
 To create the current year
@@ -7,3 +7,4 @@ To create the current year
 ```tableau
 [Select Year]
 ```
+After that, change the Current Year to dimension
