@@ -7,7 +7,6 @@ Determines the most recent year present in the Order Date field, typically based
 ```tableau
 [Select Year]
 ```
-After that, change Current Year to a dimension
 
 # Previous Year
 
