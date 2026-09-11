@@ -12,7 +12,7 @@ The project workflow for the Tableau Complete Project follows these steps:
 ---
 ## 🗠Dashboard Preview
 [Sales Dashboard](https://public.tableau.com/views/TableauCompleteProjectE2E-SalesDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[Customers Dashboard](https://public.tableau.com/app/profile/mustafa.muntak/viz/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard)
+[Customers Dashboard](https://public.tableau.com/views/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 ## 🔗Important Links & Tools:
