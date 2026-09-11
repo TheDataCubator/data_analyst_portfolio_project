@@ -35,40 +35,6 @@ Below are the dashboards built as part of this project.
 
 ---
 
-## Project Requirements
-
-### 🔭Analyze Requirements
-
-#### Choose the right charts<br>
-For this project, the types of charts mostly used were 📈line charts and 📊bar charts.
-
-#### Draw Mockup
-Refer to [Dashboard Mockup Diagram](datasets/sales-dashboard-project/project_phases.pdf) on dashboard mockup drawing before building the real dashboard.
-
-#### Dashboard Color Scheme
-
-**Sales Dashboard**<br>
-Below are the colors used in the Sales Dashboard:
-
-| Purpose | Swatch | Hex Code |
-|---------|--------|----------|
-| Current Year   | ![#212121](https://img.shields.io/badge/-212121-212121) | `#212121` |
-| Previous Year  | ![#cecece](https://img.shields.io/badge/-cecece-cecece) | `#cecece` |
-| Highest value, above average value | ![#1da2d0](https://img.shields.io/badge/-1da2d0-1da2d0) | `#1da2d0` |
-| Lowest value, below average value | ![#ff5500](https://img.shields.io/badge/-ff5500-ff5500) | `#ff5500` |
-
-**Customers Dashboard**<br>
-Below are the colors used in the Customers Dashboard:
-
-| Purpose | Swatch | Hex Code |
-|---------|--------|----------|
-| Current Year   | ![#212121](https://img.shields.io/badge/-212121-212121) | `#212121` |
-| Previous Year  | ![#cecece](https://img.shields.io/badge/-cecece-cecece) | `#cecece` |
-| Highest value, above average value | ![#59a14f](https://img.shields.io/badge/-59a14f-59a14f) | `#59a14f` |
-| Lowest value, below average value | ![#ff9da7](https://img.shields.io/badge/-ff9da7-ff9da7) | `#ff9da7` |
----
-
-
 ## License
 
 This project is licensed under the [MIT LICENSE](LICENSE). You are free to use, modify, and share this project with proper attribution.
