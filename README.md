@@ -11,11 +11,11 @@ The project workflow for the Tableau Complete Project follows these steps:
 
 ---
 ## 🗠Dashboard Preview
-![Sales Dashboard](docs/diagrams/Sales Dashboard.png)
+![Sales Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Sales%20Dashboard.png)
 
 🔗 [View the interactive version on Tableau Public]([https://public.tableau.com/app/profile/yourname/viz/...](https://public.tableau.com/views/TableauCompleteProjectE2E-SalesDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Customer Dashboard](docs/diagrams/Customer Dashboard.png)
+![Customer Dashboard](https://github.com/TheDataCubator/tableau_complete_project_e2e/blob/0b39ad81fdb60cfd2c300b7febb5a029aa9dc26e/docs/diagrams/Customer%20Dashboard.png)
 
 🔗 [View the interactive version on Tableau Public]([https://public.tableau.com/app/profile/yourname/viz/...](https://public.tableau.com/views/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
