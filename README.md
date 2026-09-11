@@ -28,7 +28,7 @@ The data architecture for the Tableau Complete Project follows these steps:
 ### 🔭Analyze Requirements
 
 #### Choose the right charts<br>
-For this project, the charts mostly used were 📈line charts and 📊bar charts.
+For this project, the types of charts mostly used were 📈line charts and 📊bar charts.
 
 #### Draw Mockup
 Refer to pages 6 - 8 in [Dashboard Mockup Diagram](datasets/sales-dashboard-project/project_phases.pdf)
