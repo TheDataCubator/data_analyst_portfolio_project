@@ -1,6 +1,6 @@
 # Sales Dashboard Color Scheme
 
-Below are the colors used in Sales Dashboard:
+Below are the colors used in the Sales Dashboard:
 
 | Purpose | Swatch | Hex Code |
 |---------|--------|----------|
