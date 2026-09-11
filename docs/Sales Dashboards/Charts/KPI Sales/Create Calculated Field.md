@@ -1,7 +1,7 @@
 # [Current Year]
 
 ## Purpose
-Brief description of what this field calculates and why it exists.
+To create the current year
 
 ## Formula
 ```tableau
