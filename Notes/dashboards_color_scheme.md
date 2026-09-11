@@ -1,7 +1,8 @@
-#### Dashboard Color Scheme
+## Dashboard Color Scheme
 
-**Sales Dashboard**<br>
-Below are the colors used in the Sales Dashboard:
+Below are the colors used in the Sales & Customer Dashboard:
+
+### Sales Dashboard
 
 | Purpose | Swatch | Hex Code |
 |---------|--------|----------|
@@ -10,8 +11,7 @@ Below are the colors used in the Sales Dashboard:
 | Highest value, above average value | ![#1da2d0](https://img.shields.io/badge/-1da2d0-1da2d0) | `#1da2d0` |
 | Lowest value, below average value | ![#ff5500](https://img.shields.io/badge/-ff5500-ff5500) | `#ff5500` |
 
-**Customers Dashboard**<br>
-Below are the colors used in the Customers Dashboard:
+### Customer Dashboard
 
 | Purpose | Swatch | Hex Code |
 |---------|--------|----------|
