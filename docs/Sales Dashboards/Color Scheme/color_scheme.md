@@ -1,3 +1,7 @@
+# Sales Dashboard Color Scheme
+
+Below are the colors used in Sales Dashboard:
+
 | Purpose | Swatch | Hex Code |
 |---------|--------|----------|
 | Current Year   | ![#212121](https://img.shields.io/badge/-212121-212121) | `#212121` |
