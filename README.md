@@ -31,7 +31,7 @@ The data architecture for this project follows these steps:
 For this project, the charts mostly used were 📈line charts and 📊bar charts.
 
 #### Draw Mockup
-Refer to pages 6- 8 on [Mockup Diagram](datasets/sales-dashboard-project/project_phases.pdf)
+Refer to pages 6 - 8 in [Dashboard Mockup Diagram](datasets/sales-dashboard-project/project_phases.pdf)
 
 #### Dashboard Color Scheme
 
