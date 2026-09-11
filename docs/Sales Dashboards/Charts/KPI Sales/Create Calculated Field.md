@@ -1,7 +1,7 @@
 # Current Year
 
 ## Purpose
-To create the current year dimension
+Determines the most recent year present in the Order Date field, typically based on the maximum year in the dataset, or a selected year if a parameter is used. Used as a reference point to filter or compare other calculated fields.
 
 ## Formula
 ```tableau
@@ -12,7 +12,7 @@ After that, change Current Year to a dimension
 # Previous Year
 
 ## Purpose
-To create the previous year dimension
+Determines the year immediately preceding the current year (Current Year − 1). Used as a reference point for year-over-year comparisons.
 
 ## Formula
 ```tableau
@@ -22,6 +22,9 @@ After that, change Previous Year to a dimension
 
 # CY Sales
 
+## Purpose
+Calculates total sales for the current year only, filtering out all other years. Used as the numerator/base value in year-over-year comparison calculations and current-year visualizations.
+
 ## Formula
 ```tableau
 IF YEAR([Order Date])=[Select Year] THEN [Sales]
@@ -29,6 +32,9 @@ END
 ```
 
 # PY Sales
+
+## Purpose
+Calculates total sales for the previous year only, filtering out all other years. Used as the comparison baseline in year-over-year comparison calculations.
 
 ## Formula
 ```tableau
@@ -50,7 +56,7 @@ Calculates the year-over-year percentage change in sales, comparing the current 
 # Min/Max Sales
 
 ## Purpose 
-Identifies the highest and lowest sales values within the current year, used to highlight peak and low points in [Total Sales charts].
+Identifies the highest and lowest sales values within the current year, used to highlight peak and low points in Total Sales charts.
 
 
 ## Formula
