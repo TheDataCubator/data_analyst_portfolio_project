@@ -49,12 +49,12 @@ Represent the distribution  of customers based on the number of  orders they hav
 
 ---
 
-### Design & Interactivity Requirements
+## Design & Interactivity Requirements
 
-#### Dashboard Dynamic
+### Dashboard Dynamic
 -The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.<br>
 -Provide users with the ability to navigate between the dashboards easily.<br>
 -Make the charts and graphs interactive, enabling users to filter data using the charts.
 
-#### Data Filters
+### Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
