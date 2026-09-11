@@ -10,6 +10,11 @@ The project workflow for the Tableau Complete Project follows these steps:
 ![Tableau Project Workflow](docs/diagrams/tableau_project_workflow.png)
 
 ---
+## 🗠Dashboard Preview
+[Sales Dashboard](https://public.tableau.com/app/profile/mustafa.muntak/viz/TableauCompleteProjectE2E-SalesDashboard/SalesDashboard)
+[Customers Dashboard](https://public.tableau.com/app/profile/mustafa.muntak/viz/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard)
+
+---
 ## 🔗Important Links & Tools:
 
 - **[Datasets](datasets/sales-dashboard-project/datasets)**: Access to the project dataset(csv files).
