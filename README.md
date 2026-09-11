@@ -25,10 +25,11 @@ The data architecture for this project follows these steps:
 
 ## Project Requirements
 
-#### Choose the rights charts<br>
+### Analyze Requirements
+
+#### Choose the right charts<br>
 For this project, the charts mostly used were 📈line charts and 📊bar charts.
 
-### Analyze Requirements
 #### Draw Mockup
 Refer to pages 6- 8 on [Mockup Diagram](datasets/sales-dashboard-project/project_phases.pdf)
 
