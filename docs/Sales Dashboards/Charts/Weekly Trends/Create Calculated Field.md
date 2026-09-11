@@ -1,7 +1,7 @@
 # KPI Profits Avg
 
 ## Purpose 
-
+Determines the average value within the Weekly Trends chart, then classifies each point as above or below that average. This classification is used to assign distinct colors to the above-average and below-average areas of the Weekly Trends chart.
 
 
 ## Formula
@@ -13,10 +13,6 @@ END
 ```
 
 # KPI Sales Avg
-
-## Purpose 
-
-
 
 ## Formula
 ```tableau
