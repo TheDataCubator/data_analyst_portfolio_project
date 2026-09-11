@@ -18,4 +18,34 @@ To create the previous year dimension
 ```tableau
 [Select Year]-1
 ```
-After that, change the Previous Year to a dimension
+After that, change Previous Year to a dimension
+
+#CY Sales
+
+## Formula
+```tableau
+IF YEAR([Order Date])=[Select Year] THEN [Sales]
+END
+```
+
+# PY Sales
+
+## Formula
+```tableau
+IF YEAR([Order Date])=[Select Year]-1 THEN [Sales]
+END
+```
+
+# %Diff Sales
+
+## Formula
+```tableau
+(SUM([CY Sales])-SUM([PY Sales]))/SUM([PY Sales])
+```
+
+# Min/Max Sales
+
+## Formula
+```tableau
+(SUM([CY Sales])-SUM([PY Sales]))/SUM([PY Sales])
+```
