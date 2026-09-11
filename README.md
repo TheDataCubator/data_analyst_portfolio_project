@@ -34,7 +34,9 @@ Refer to pages 6- 8 on [Mockup Diagram](datasets/sales-dashboard-project/project
 **Sales Dashboard**
 
 **Customers Dashboard**
+
 ---
+
 ### Repository Structure
 ```
 data-warehouse-project/
