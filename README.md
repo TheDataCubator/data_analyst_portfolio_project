@@ -31,7 +31,7 @@ Refer to pages 6- 8 on [Mockup Diagram](datasets/sales-dashboard-project/project
 
 #### Dashboard Color Scheme
 
-**Sales Dashboard**
+**Sales Dashboard**<br>
 Below are the colors used in the Sales Dashboard:
 
 | Purpose | Swatch | Hex Code |
@@ -41,7 +41,7 @@ Below are the colors used in the Sales Dashboard:
 | Highest value, above average value | ![#1da2d0](https://img.shields.io/badge/-1da2d0-1da2d0) | `#1da2d0` |
 | Lowest value, below average value | ![#ff5500](https://img.shields.io/badge/-ff5500-ff5500) | `#ff5500` |
 
-**Customers Dashboard**
+**Customers Dashboard**<br>
 Below are the colors used in the Customers Dashboard:
 
 | Purpose | Swatch | Hex Code |
