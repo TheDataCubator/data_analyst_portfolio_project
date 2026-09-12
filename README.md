@@ -22,7 +22,7 @@ Below are the dashboards built as part of this project.
 🔗[View the interactive version on Tableau Public](https://public.tableau.com/views/TableauCompleteProjectE2E-CustomersDashboard/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
-## 🪧Tips
+## 🪧Tip
 For Tableau Public users who want to save this workbook to their own device, it's recommended to change the data source connection from Live to Extract.
 
 ---
