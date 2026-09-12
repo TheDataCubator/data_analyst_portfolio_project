@@ -1,7 +1,7 @@
 # CY Customer
 
 ## Purpose
-Calculates the total number of unique customers for the current year only, filtering out all other years. Used as the numerator/base value in year-over-year comparison calculations and current-year visualizations.
+Calculates the total number of customers for the current year only, filtering out all other years. Used as the numerator/base value in year-over-year comparison calculations and current-year visualizations.
 
 ## Formula
 ```tableau
@@ -12,7 +12,7 @@ END
 # PY Customer
 
 ## Purpose
-Calculates  the total number of unique customers for the previous year only, filtering out all other years. Used as the comparison baseline in year-over-year comparison calculations.
+Calculates  the total number of customers for the previous year only, filtering out all other years. Used as the comparison baseline in year-over-year comparison calculations.
 
 ## Formula
 ```tableau
