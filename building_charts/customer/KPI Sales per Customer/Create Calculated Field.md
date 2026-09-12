@@ -21,7 +21,7 @@ SUM([PY Sales])/COUNTD([PY Customer])
 # %Diff Sales per Customer
 
 ## Purpose
-Calculates the year-over-year percentage change in customers, comparing the current year to the previous year. Used in Total Customers charts to show customers trend directions.
+Calculates the year-over-year percentage change in total sales per customer, comparing the current year to the previous year. Used in Total Sales per Customer charts to show the total sales per customer trend directions.
 
 ## Formula
 ```tableau
@@ -32,7 +32,7 @@ Calculates the year-over-year percentage change in customers, comparing the curr
 # Min/Max Sales per Customer
 
 ## Purpose 
-Identifies the highest and lowest number of customers within the current year, used to highlight peak and low points in Total Customers charts.
+Identifies the highest and lowest number of total sales per customer within the current year, used to highlight peak and low points in Total Sales per Customer charts.
 
 
 ## Formula
