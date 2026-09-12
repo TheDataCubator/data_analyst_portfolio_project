@@ -23,7 +23,7 @@ END
 # %Diff Customer
 
 ## Purpose
-Calculates the year-over-year percentage change in customers, comparing the current year to the previous year. Used in Total Customers charts to show profit trend directions.
+Calculates the year-over-year percentage change in customers, comparing the current year to the previous year. Used in Total Customers charts to show customers trend directions.
 
 ## Formula
 ```tableau
