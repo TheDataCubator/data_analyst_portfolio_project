@@ -23,7 +23,7 @@ Below are the dashboards built as part of this project.
 
 ---
 ## ✨Tip
-For Tableau Public users who want to save this workbook to their own device, it's recommended to change the data source connection from Live to Extract.
+For Tableau Public users who want to save this workbook to their own device, it's recommended to change the data source connection from Live to Extract to avoid issues when trying to reopen the file.
 
 ---
 ## 🔗Important Links & Tools:
